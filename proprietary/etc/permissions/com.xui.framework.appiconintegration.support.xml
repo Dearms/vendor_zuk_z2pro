@@ -1,0 +1,7 @@
+<!--fancy_fw,zhanggb2,XUIROM-System_Theme_Center, begin-->
+<!-- This is the feature set for appiconintegration support -->
+
+<permissions>
+    <feature name="com.xui.framework.appiconintegration.support" />
+</permissions>
+<!--fancy_fw,zhanggb2,XUIROM-System_Theme_Center, end-->
